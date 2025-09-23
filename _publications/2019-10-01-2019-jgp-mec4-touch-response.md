@@ -1,10 +1,10 @@
 ---
 title: "Progressive recruitment of distal MEC-4 channels determines touch response strength in C. elegans"
 collection: publications
-category: manuscripts
 permalink: /publication/2019-jgp-mec4-touch-response
-excerpt: 'We show how progressive recruitment of MEC-4 channels determines touch response strength in C. elegans.'
 date: 2019-10-01
-venue: 'Journal of General Physiology'
-citation: 'Katta, S., Sanzeni, A., Das, A., Vergassola, M., Goodman, M.B. (2019). "Progressive recruitment of distal MEC-4 channels determines touch response strength in C. elegans." <i>Journal of General Physiology</i> 151(10): 1213–1230.'
 ---
+
+**Progressive recruitment of distal MEC-4 channels determines touch response strength in C. elegans**  
+S. Katta, A. Sanzeni, A. Das, M. Vergassola, M.B. Goodman  
+2019, *Journal of General Physiology 151(10), 1213–1230*. [Open Access link](https://doi.org/10.1085/jgp.201912345)  
