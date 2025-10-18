@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Alessandro Sanzeni"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Alessandro Sanzeni" # Update this with your name
   pronouns         : "he/him"  
-  bio              : "I am an Assistant Professor at Bocconi University, developing data-driven and theoretical models to study how neural systems process sensory information for perception and behavior."
+  #bio              : "I am an Assistant Professor at Bocconi University, developing data-driven and theoretical models to study how neural systems process sensory information for perception and behavior."
   location         : "Milan, Italy"
   employer         : "Bocconi University"
   uri              : # URL
